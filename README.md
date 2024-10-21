@@ -2,7 +2,7 @@
 
 AI agents are software programs designed to autonomously perform tasks by interpreting user inputs, learning from interactions, and adapting to changes. These agents can handle complex workflows, automate repetitive tasks, and simulate real-world scenarios, often mimicking human decision-making processes. Their applications span various industries, from business operations to interactive applications, enhancing productivity and problem-solving capabilities.
 
-### Explanation of Frameworks (From Image) 🧠💡
+### Explanation of Frameworks  🧠💡
 
 1. **Langchain**: Focuses on creating LLM-powered applications, offering versatility and external integrations. Ideal for general-purpose AI development. ⚙️🌐
    
